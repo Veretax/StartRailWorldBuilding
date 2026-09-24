@@ -1,0 +1,24 @@
+/GenerateSideCharacter Mara
+
+- Name: Mara Vell
+- 23; female; B-rank witch
+- Role: proprietor/heir-apparent of The Crooked Bookmark, Magical World bookshop/café
+- Hair: deep mahogany; thick, straight; long bob tucked behind ears while working
+- Eyes: cool gray-green
+- Look: medium height; composed posture; usually carrying pencil/order pad
+- Colors: deep green, burgundy, antique gold
+- Style: neat blouse/vest; dark skirt/trousers; practical shop apron
+- Magic: domestic inscription/comfort enchantment
+- Talent: small persistent charms for lighting, temperature, shelving, preservation, ambience and café work
+- Strength: efficient, stable practical magic; excellent shopkeeper
+- Weakness: limited raw power; dislikes improvisational casting; becomes controlling when stressed
+- Traits: dry, practical, observant, dependable, competitive, difficult to fluster; quietly kind
+- Flaws: stubborn; keeps feelings private; sometimes treats organization as a substitute for communication
+- Quirks: remembers customers' orders; straightens displays while thinking; devastatingly dry one-liners; maintains meticulous inventory
+- Goal: make The Crooked Bookmark successful on its own merits
+- Lyra: longtime rival who confidently wagered she could outsell Mara; Mara won fair and square
+- Important: never exploits/humiliates Lyra; expects agreed work but treats her as a real colleague
+- Relationship seed: rivalry may gradually become respect, partnership and genuine friendship; do NOT predetermine outcome
+- Quiet arc: may notice before Lyra does that Lyra has stopped counting down quite so enthusiastically
+- PlayerCharacter: ordinary customer initially; no automatic knowledge of his reputation
+- Give Mara friendships, customers, business concerns and ambitions independent of Lyra/PlayerCharacter.

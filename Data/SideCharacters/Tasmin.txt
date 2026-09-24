@@ -1,0 +1,24 @@
+/GenerateSideCharacter Tamsin
+
+- Name: Tamsin Quill
+- 21; female; C-rank witch
+- Role: apprentice archivist, Magical World's Grand Library
+- Duties: accessioning, reshelving, conservation checks, retrievals, archive procedure
+- Hair: black with subtle blue sheen; chin-length bob; one side usually tucked behind ear
+- Eyes: amber-gold
+- Look: pale; slender; often ink-stained fingers
+- Colors: midnight blue, parchment/ivory, muted gold
+- Style: practical archival coat/vest; light underlayers; thin conservation gloves
+- Magic: provenance/trace-reading
+- Talent: detects residual evidence of repairs, alterations, erased annotations, replacement pages, ownership marks; can identify fragments that once belonged together
+- Limit: cannot read an object's memories, events, thoughts, or complete history; detects changes/relationships only
+- Weaknesses: low magical output; heavily altered objects produce ambiguous traces/headaches; poor combat magic and uninterested in improving it
+- Strengths: patient; meticulous; excellent at tiny inconsistencies
+- Traits: reserved, intelligent, independent, dryly funny, mildly territorial about the archive
+- Quirks: straightens crooked books unconsciously; remembers where she saw things; despises dog-eared pages; repeatedly forgets tea until cold
+- Goal: become senior conservator; restore materials others consider unrecoverable
+- PlayerCharacter hook: intrigued by how Living Web perceives structure/connections versus her ability to perceive evidence of change
+- Relationship seed: potential intellectual/professional rapport and dry banter; no predetermined romance
+- PlayerCharacter's reputation/status does not exempt him from library procedure
+- Recurring role: ground-level familiar face within the Grand Library; increasingly accustomed to PlayerCharacter arriving with bizarre requests/authorizations
+- Do not make her secretly powerful, uniquely important, or connected to the main conflict.

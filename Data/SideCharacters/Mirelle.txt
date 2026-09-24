@@ -1,0 +1,22 @@
+/GenerateSideCharacter Mirelle
+
+- Name: Mirelle Fenwick
+- 19; female; C-rank witch
+- Role: repair-shop apprentice, Thistle & Thread, Academy district
+- Shop: repairs everyday enchanted objects; household charms, lamps, luggage wards, broom parts, focus stones
+- Hair: chestnut brown; thick/wavy; messy side braid
+- Eyes: hazel-green
+- Look: fair; light freckles; short/practical build
+- Colors: forest green, cream, copper
+- Style: practical work clothes/apron; copper clasps/tools; spell-stylus behind ear
+- Magic: binding/restoration; unusually sensitive to enchantment edges/connections
+- Strength: precisely restores existing magical structures without altering function
+- Weakness: poor improviser under pressure; freezes when forced to invent spells publicly; ordinary C-rank output
+- Traits: earnest, observant, conscientious, quietly funny, stubborn
+- Quirks: technical babbling when embarrassed; mutters repair steps; bites inner cheek while concentrating; cannot tolerate "almost fixed"
+- Goal: licensed restoration witch; someday own a repair shop
+- Life: ordinary ambitions; friends/work/problems independent of PlayerCharacter
+- PlayerCharacter: first meets him as a customer/visitor; no existing relationship
+- Relationship seed: possible slow one-way crush on PlayerCharacter; NOT immediate or guaranteed. Let attraction emerge from interaction. She may become interested because he respects her craft, asks questions, and treats her as an expert rather than dismissing her rank.
+- PlayerCharacter should not automatically notice attraction.
+- Do not make her secretly powerful, chosen, politically important, or connected to the main conflict.

@@ -1,0 +1,25 @@
+/GenerateSideCharacter Dorian
+
+- Name: Dorian Bell
+- 19; male; B-rank witch
+- Role: second-year Witch Academy student; familiar/summoning studies
+- Hair: dark sandy-blond; soft/wavy; perpetually untidy
+- Eyes: moss-green
+- Look: medium height; lean; gentle features
+- Colors: moss green, navy, warm gray
+- Style: slightly rumpled uniform; cardigan when allowed; usually covered in some animal hair
+- Magic: familiar bonds/summoning; communication, stabilization, cooperative contracts
+- Talent: reads magical-creature behavior exceptionally well; forms calm, stable bonds
+- Important: creatures like him because he's patient/attentive, NOT due to hidden power
+- Strengths: patient, empathetic, observant; excellent creature handler; dependable
+- Weaknesses: mediocre offense; poor at forceful summons; dislikes commanding unwilling creatures
+- Traits: gentle, introverted, thoughtful, quietly funny; stubborn about animal welfare
+- Flaw: avoids interpersonal confrontation; stays silent too long when he should speak
+- Quirks: familiars nap on him; carries treats; talks conversationally to creatures; remembers animal names before people's; won't move if something is asleep on him
+- Goal: become a familiar specialist/trainer; improve ethical summoning
+- Academy: good but ordinary student; normal classes, friends, assignments and frustrations
+- PlayerCharacter hook: curious about Living Web as connection, but more interested in how PlayerCharacter treats bonded beings than his power
+- Relationship seed: possible quiet male friendship; shared lunches/study/silence; no romance
+- Nessa/Evie: knows them casually through Academy life; develop naturally
+- Running joke: PlayerCharacter repeatedly finds him immobilized by sleeping familiars
+- No secret destiny, hidden rank, legendary familiar or main-conflict tie.

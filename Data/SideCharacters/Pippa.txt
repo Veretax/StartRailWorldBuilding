@@ -1,0 +1,23 @@
+/GenerateSideCharacter Pippa
+
+- Name: Pippa Rowan
+- 17; female; D-rank witch
+- Role: apprentice/assistant at neighborhood apothecary near Academy district; studying herbalism
+- Hair: strawberry-blonde; thick/curly; messy high ponytail; loose curls
+- Eyes: bright green
+- Look: lightly freckled; average/sturdy build; often smells faintly of herbs
+- Colors: sage green, sunflower yellow, warm brown
+- Style: practical clothes/apron; excessive pockets usually containing herbs
+- Magic: herbal resonance
+- Talent: senses broad plant states/properties—healthy/stressed, magically saturated/depleted, potentially reactive; unusually good with difficult magical plants
+- Limits: cannot magically identify unknown plants or exact medicinal effects; must actually study botany
+- Strengths: excellent practical herbalist/gardener; ingredient preparation; exceptional sensory memory for plants
+- Weaknesses: D-rank output; unreliable formal casting; struggles maintaining complex spells; written magical theory/Academy-style coursework is difficult
+- Traits: cheerful, curious, generous, talkative, resilient, nosy
+- Quirks: talks to plants; names troublesome specimens; identifies many plants by smell; herbs stuffed into pockets; prescribes tea whenever someone mentions an ailment
+- Vulnerability: jokes about poor magical grades but is privately embarrassed by them
+- Goal: own a small apothecary and greenhouse; no desire to become an elite witch
+- PlayerCharacter hook: largely unimpressed by titles/power; fascinated by plants, herbs, trees and ecosystems PlayerCharacter has encountered across Domains/worlds
+- Relationship seed: possible easy friendship; curiosity about PlayerCharacter comes primarily through botany, not his reputation; no predetermined romance
+- Mirelle connection: knows Mirelle/Thistle & Thread through repairs; may owe her money or favors, with disputed accounting
+- Do not secretly upgrade her rank, power, destiny, or importance.

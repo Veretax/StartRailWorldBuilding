@@ -1,0 +1,23 @@
+/GenerateSideCharacter Lyra
+
+- Name: Lyra Somniel
+- 22; female; Dreamer from Dream Domain; NOT a witch
+- Role: employee at The Crooked Bookmark, Magical World bookshop/café
+- Situation: lost a voluntary wager to longtime rival Mara Vell; wager requires one year working for Mara; ~4 months remain
+- Important: free to leave; stays from pride/honor, not coercion
+- Hair: long lavender fading to pale silver; loose side ponytail; wispy bangs
+- Eyes: luminous rose-violet
+- Look: slender, graceful
+- Colors: lavender, midnight purple, silver
+- Workwear: cream apron embroidered with tiny moons; claims to hate it
+- Dreamcraft: minor sensory manifestations—atmosphere, imagery, sounds, scents, harmless illusions
+- Strength: makes spaces feel like imagined places; excellent storyteller
+- Weakness: poor forceful manifestation/combat; Magical World's magic subtly interferes with her dreamcraft
+- Traits: elegant, theatrical, clever, imaginative, competitive, proud, spectacularly petty about losing
+- Quirks: insists "I'm fulfilling a wager, not employed"; countdown of remaining days; tiny notebook of perceived injustices; creates dream-images while storytelling; remembers regular customers' drinks
+- Goal: originally endure wager and return to Dream
+- Mara: rival/employer; growing respect beneath constant bickering
+- Arc seed: countdown gradually becomes less important as she builds friendships and attachment to Magical World
+- Possible eventual realization: when wager ends, she may ask Mara to stop being rivals, become friends, and let her keep working because she genuinely loves her life there. Do NOT force outcome; let interactions earn it.
+- PlayerCharacter hook: surprised an outsider understands aspects of Dream; she need not personally know Regulus/Elise
+- Give her relationships/life independent of PlayerCharacter.

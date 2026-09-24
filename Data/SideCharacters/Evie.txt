@@ -1,0 +1,26 @@
+/GenerateSideCharacter Evie
+
+- Name: Eveline "Evie" Hart
+- 20; female; A-rank witch
+- Role: third-year Witch Academy student; student prefect
+- Hair: platinum-blonde; straight; waist-length; high ponytail, black ribbon
+- Eyes: crimson-red
+- Look: tall, slender; immaculate posture
+- Colors: black, white, crimson
+- Style: regulation-perfect Academy uniform
+- Magic: vector magic; redirects existing motion/force
+- Talent: changes trajectories; deflects objects/spells; arrests falls; redirects momentum
+- Limits: cannot create force; large forces strain her; multiple vectors reduce precision
+- Traits: formal, disciplined, responsible, blunt, protective, highly competent; extremely dry humor
+- Hidden side: fiercely competitive; LOVES speed, racing, diving, freefall and acceleration
+- Flaw: overcontrolled; fears relaxing her discipline will make her reckless
+- Quirks: knows regulations by section; tells corridor runners "Walk"; exploits loopholes rather than breaking rules; rebuilt her broom 17 times
+- Broom: technically Academy-compliant. Technically.
+- Goal: excel academically while pursuing increasingly sophisticated high-speed flight
+- Nessa: knows Evie's racing/engineering side; prefers not to discuss it
+- PlayerCharacter: initially another first-year she expects to supervise
+- PlayerCharacter hook: intensely interested if Wayfinder/spatial movement can preserve or redirect momentum
+- Relationship seed: possible senior-student friendship, technical collaboration, dangerous experimentation; no predetermined romance
+- Running joke: PlayerCharacter may spend weeks believing Evie is extremely sensible
+- Core contrast: straight-laced exterior; concealed chaos expressed through precision, competition and technically legal speed
+- Keep her impressive A-rank, not elite/master-level; no secret destiny/main-conflict tie.

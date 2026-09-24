@@ -1,0 +1,23 @@
+/GenerateSideCharacter Corin
+
+- Name: Corin Ashcombe
+- 20; male; B-rank witch
+- Role: apprentice enchanter/signwright; works at small independent workshop
+- Work: practical permanent enchantments—shop signs, address wards, wayfinding markers, door permissions, boundaries, storage labels, notices
+- Hair: ash-brown; medium length; constantly falls across forehead
+- Eyes: deep violet
+- Look: tall, lean; angular features
+- Colors: slate blue, silver, rust-red
+- Style: rolled sleeves; work vest; fingerless gloves; ruler/stylus in wrist loop
+- Magic: inscription/directive enchantment
+- Talent: embeds simple persistent instructions into prepared materials; excels at clear, stable, low-maintenance enchantments
+- Limits: complexity scales poorly; magic follows wording literally; vague/ambiguous instructions create unreliable results
+- Strengths: practical design, efficiency, magical signage/interfaces/access controls
+- Weaknesses: impatient; starts building before requirements are settled; sometimes must dismantle his own work; poor at delicate restoration
+- Traits: sociable, clever, pragmatic, irreverent, confident, argumentative
+- Quirks: sketches symbols while talking; critiques bad signage; taps materials to assess enchantability; compulsively rewrites unclear instructions
+- Goal: earn journeyman license; eventually own an enchantment workshop
+- PlayerCharacter hook: sees parallels between PlayerCharacter's software concepts—APIs, permissions, interfaces, validation, state—and inscription magic
+- Relationship seed: potential genuine male friendship through technical arguments/projects; no romantic interest
+- Mirelle connection: professional acquaintance; has brought Thistle & Thread things he accidentally damaged while "disassembling" them
+- Do not make him secretly elite, politically important, or tied to the main conflict.

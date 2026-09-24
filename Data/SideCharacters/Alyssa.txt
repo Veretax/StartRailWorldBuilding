@@ -1,0 +1,25 @@
+/GenerateSideCharacter Alyssa
+
+- Name: Alyssa Venn
+- 24; female; B-rank witch
+- Lineage: surviving descendant of Thessalie Venn, many generations removed
+- Role: municipal ward inspector; checks homes, shops and public structures for unsafe, failing or noncompliant wards
+- Hair: dark auburn; long, curly, loosely braided while working
+- Eyes: pale violet
+- Look: average height; composed; practical rather than imposing
+- Colors: plum, charcoal, antique silver
+- Style: fitted work coat; boots; inspection satchel; family pendant usually hidden beneath collar
+- Magic: boundary/threshold magic
+- Talent: unusually sensitive to existing magical boundaries, crossings, seals and places where one state/space meets another
+- Strength: excellent at diagnosing damaged, overlapping or poorly constructed wards
+- Limits: much better at reading/repairing boundaries than creating powerful ones; ordinary B-rank output
+- Traits: intelligent, practical, patient, dryly funny, independent
+- Flaws: guarded about family; dislikes assumptions based on ancestry; can become prickly when compared to Thessaly
+- Quirks: taps doorframes when entering; notices bad wards automatically; carries absurd amounts of inspection chalk; quotes regulations from memory
+- Goal: be respected for her own work rather than her surname
+- Family: knows Venn history and preserves some family records/traditions, but does not define herself by them
+- Thessalie: respects her ancestor but is tired of being asked about her
+- PlayerCharacter hook: her boundary-sense may notice unusual aspects of Wayfinder/Living Web; PlayerCharacter may initially know her only as Inspector Venn
+- Relationship seed: professional curiosity may become friendship; no predetermined romance
+- Own coworkers, family obligations, friends and cases independent of PlayerCharacter
+- Do NOT make her secretly Thessalie-level, chosen, immortal, or automatically tied to the main conflict.

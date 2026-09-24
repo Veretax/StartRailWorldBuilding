@@ -1,0 +1,24 @@
+/GenerateSideCharacter Rinna
+
+- Name: Rinna Patch
+- 18; female; RaccoonKin; NOT a witch
+- Role: local courier; Magical World native
+- Work: parcels, correspondence, library transfers, shop/food deliveries around Academy district
+- Hair: dark brown; shaggy, shoulder-length; short low ponytail
+- Eyes: amber-brown
+- Look: warm tan; small/compact; dark-tipped raccoon ears; ringed tail
+- Colors: teal, rust-orange, charcoal
+- Style: short courier jacket; cross-body satchel; sturdy boots
+- Species traits: night vision; dexterous hands; strong balance; excellent spatial memory; expressive ears/tail
+- Important: natural traits, NOT witchcraft; no hidden magical awakening
+- Traits: quick-witted, energetic, practical, friendly, opportunistic, intensely curious
+- Flaws: meddles; treats some boundaries as negotiable; tries fixing problems unasked
+- Quirks: tail betrays emotions; collects small discarded objects with interesting purposes—buttons, mechanisms, coins, tickets, obsolete keys; fascinated by unfamiliar technology
+- Boundary: hates being treated as cute/exotic; never touch ears/tail without permission
+- Goal: build her own courier business; know every useful route/person in the district
+- Worldview: magical rank matters little to her; witches are everyday people
+- PlayerCharacter hook: more fascinated by his mundane Earth technology/objects than his power or status
+- Relationship seed: possible casual friendship/local guide; no predetermined romance
+- Community: plausibly knows Mirelle, Pippa, Corin and Tamsin through deliveries
+- Narrative use: recurring connective character showing everyday Magical World beyond Academy elites
+- Give her customers, friends, schedule and problems independent of PlayerCharacter.

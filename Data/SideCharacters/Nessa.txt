@@ -1,0 +1,24 @@
+/GenerateSideCharacter Nessa
+
+- Name: Nessa Vale
+- 18; female; B-rank witch
+- Role: second-year Witch Academy student; practical wardcraft specialization
+- Hair: dark auburn; straight; just below shoulders; usually held with two small brass clips
+- Eyes: gray-blue
+- Look: warm brown skin; lean build
+- Colors: burgundy, charcoal, brass
+- Style: correct but lived-in Academy uniform; sleeves rolled exactly twice; overloaded satchel; notebooks everywhere
+- Magic: wards, barriers, thresholds, alarms, basic containment
+- Talent: efficiently layers multiple simple wards rather than relying on one powerful construct
+- Strengths: fast/reliable with known patterns; disciplined; strong technical fundamentals
+- Weaknesses: over-engineers; dislikes acting without enough information; unexpected variables frustrate her; mediocre offensive magic
+- Traits: organized, curious, competitive, responsible, skeptical, occasionally bossy
+- Quirks: obsessively color-coded notes; counts while casting; carries spare pencils; offended by undocumented spellwork
+- Goal: earn a strong warding apprenticeship; privately fears she's hardworking rather than genuinely gifted
+- Hidden interest: magical engineering/artificing—mechanisms, enchanted devices, mana circuits
+- History: loved dismantling/building magical devices before Academy; mostly abandoned it after specializing in conventional witchcraft
+- Internal tension: believes this interest doesn't properly fit what a witch is supposed to pursue
+- PlayerCharacter: initially may mistake him for a visiting researcher/advanced apprentice; surprised to learn he's a first-year Specialist
+- Relationship seed: peer curiosity/friendship possible; his cross-domain approach may challenge assumptions about her abandoned interests. Do not predetermine outcome or romance.
+- Narrative use: can show PlayerCharacter what ordinary Academy student life is actually like
+- Do not make her secretly elite, uniquely powerful, or tied to the main conflict.
